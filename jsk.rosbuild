@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 
-
 function usage {
     echo >&2 "usage: $0"
     echo >&2 "          [-h|--help] print this message"
